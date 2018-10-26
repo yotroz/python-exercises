@@ -15,4 +15,6 @@ def linear(lst, num):
     return None     
 #%%
 
-    
+def hello(): 
+    name = input("What's you name?")
+    print("hello " + name)    
